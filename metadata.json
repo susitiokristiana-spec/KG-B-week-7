@@ -1,0 +1,6 @@
+{
+  "name": "Tebak Suara Hewan Cilik - Sahabat Ternak & Peliharaan",
+  "description": "Game edukatif interaktif untuk anak TK B: tebak suara misteri hewan peliharaan dan ternak, animasi kartun ceria, audio suara hewan asli, dan hadiah stiker bintang.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
